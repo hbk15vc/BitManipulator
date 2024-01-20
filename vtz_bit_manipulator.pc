@@ -1,0 +1,14 @@
+# Package Information for pkg-config
+
+prefix=
+exec_prefix=/usr
+libdir=
+includedir=
+
+Name: vtz_bit_manipulator
+Description: 
+Version: 
+Requires:  
+Libs: -L${libdir} -lvtz_bit_manipulator
+Cflags: -I${includedir}
+

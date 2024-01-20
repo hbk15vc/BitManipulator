@@ -1,0 +1,1 @@
+g++ -o test main.cpp  -I/usr/local/include/vtz_bit_manipulator -L/usr/local/lib -lvtz_bit_manipulator -lvtz_logger
